@@ -1,0 +1,41 @@
+.productDiv{
+    margin: 15px;
+    width: 250px;
+
+    #topo{
+        height: 80px;
+        width: 200px;
+        margin-bottom: 12px;
+        text-align: center;
+    }
+   #topo1{
+       height:30px;
+       color: blue;
+       width: 200px;
+       
+   }
+   .MuiCardActions-root {
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    justify-content: center;
+}
+    
+}
+
+.deletebtn{
+    margin-top: 1%;
+    margin-left: 12%;
+    outline: none;
+  }
+  
+#delbtn{
+    border: 1px solid red;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+}  
+
+img:hover{
+    background-color: lightskyblue;
+}

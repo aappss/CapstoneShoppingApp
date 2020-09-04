@@ -1,0 +1,28 @@
+.col-md-4{
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    color: darkgreen;
+}
+
+.register{
+    color: black;
+}
+
+.loginDiv{
+    background: #eeeeee;
+    height: 557px;
+}
+
+.btn{
+    width: 100%;
+}
+
+.help-block { font-size: 15px;
+    color: red;
+}

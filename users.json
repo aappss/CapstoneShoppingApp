@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "firstName": "rahul",
+      "lastName": "sharma",
+      "email": "rs@gmail.com",
+      "password": "123456",
+      "location": "goa",
+      "mobile": "7967486787",
+      "id": "wdhdkj"
+    },
+    {
+      "firstName": "Shreya",
+      "lastName": "Verma",
+      "email": "sv@gmail.com",
+      "password": "525265",
+      "location": "Pune",
+      "mobile": "9174785965",
+      "id": "jhedkh"
+    },
+    {
+      "firstName": "Abhishek",
+      "email": "abhi@gmail.com",
+      "lastName": "GUPTA",
+      "password": "1234",
+      "location": "Bangalore",
+      "mobile": "8953547982",
+      "value": false,
+      "id": "K7-dMIJ"
+    },
+    {
+      "firstName": "Abhishek",
+      "role": "ADMIN",
+      "email": "abhishek@gmail.com",
+      "lastName": "GUPTA",
+      "password": "1234",
+      "location": "Bangalore",
+      "mobile": "8953547982",
+      "value": false,
+      "id": "W_kpaYt"
+    },
+    {
+      "id": "P82NGDA",
+      "firstName": "Ojus",
+      "lastName": "Dev",
+      "email": "od@gmail.com",
+      "password": "123456",
+      "location": "Delhi",
+      "mobile": "8953547982"
+    }
+  ]
+}
